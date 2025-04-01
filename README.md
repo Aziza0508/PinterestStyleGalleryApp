@@ -2,6 +2,12 @@
 
 A **SwiftUI-based image gallery** that mimics Pinterest’s **staggered grid layout**. The app fetches images from [Picsum Photos](https://picsum.photos/) using **concurrent image downloading with GCD (Grand Central Dispatch)**, ensuring smooth performance.  
 
+<div style="display: flex; gap: 30px;">
+  <img width="150" alt="Pinterest" src="https://github.com/user-attachments/assets/6fd0b08a-0dbe-4d84-9ef2-6a37b79f070e">
+  <img width="150" alt="Another Image" src="https://github.com/user-attachments/assets/8ffeb22f-a0a1-4b96-b88a-f9a49f059369">
+</div>
+
+
 ---
 
 ## 🎯 Features  
